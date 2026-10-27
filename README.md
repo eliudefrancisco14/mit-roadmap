@@ -80,3 +80,5 @@ mit-roadmap/
 ```
 
 > As pastas `02-6.0002` a `09-6.830` têm a mesma estrutura de `01-18.01SC`.
+
+By me 
