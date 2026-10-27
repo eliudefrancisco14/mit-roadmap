@@ -54,11 +54,29 @@ aplicando o conhecimento com rigor para gerar valor.
 - Estimativas de tempo são minhas, não oficiais do MIT.
 
 ## Estrutura do repositório
+
+```text
 mit-roadmap/
 ├── README.md              # roadmap + estado de cada fase
 ├── parking-lot.md         # tudo o que é interessante mas não está no roadmap
-├── 01-6.0002/
+├── study-log.md           # registo de cada sessão de estudo
+├── weekly-review.md       # revisão semanal (domingo, 20 min)
+├── bootstrap.sh           # cria as pastas dos cursos a partir dos templates
+├── _templates/
+│   ├── notes.md           # modelo de notas por curso
+│   └── project-brief.md   # modelo do mini projeto por curso
+├── 01-18.01SC/
 │   ├── notes.md
-│   ├── psets/
-│   └── project/           # aplicação em dados reais do teu trabalho
-└── study-log.md
+│   ├── psets/             # problem sets resolvidos
+│   └── project/           # aplicação em dados reais do trabalho
+├── 02-6.0002/
+├── 03-18.02SC/
+├── 04-18.06/
+├── 05-6.042J/
+├── 06-6.041SC/
+├── 07-6.006/
+├── 08-6.036/
+└── 09-6.830/
+```
+
+> As pastas `02-6.0002` a `09-6.830` têm a mesma estrutura de `01-18.01SC`.
